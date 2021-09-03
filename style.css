@@ -1,0 +1,146 @@
+/* google-fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.avatar {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.full-section {
+  background-color: rgb(233, 233, 233, 0.6);
+}
+/* navbar */
+
+.fa-bars {
+  background-color: rgba(44, 170, 97, 0.8);
+  color: white;
+  padding: 10px 15px;
+}
+
+.search-input {
+  border: none;
+  width: 700px;
+  height: 40px;
+}
+
+.nav-para {
+  font-size: 14px;
+}
+
+.login_btn {
+  border: none;
+  outline: none;
+  text-decoration: none;
+  background-color: none;
+}
+
+.nav-icons{
+  border: none;
+}
+.nav-msg-icon{
+  border: none;
+  background-color: rgb(248, 177, 23);
+}
+.nav-bell-icon {
+  border: none;
+  background-color: rgba(44, 170, 97, 0.8);
+}
+#compose-btn {
+  background-color: rgba(44, 170, 97, 0.8);
+  border: none;
+}
+
+.mail-badge{
+  background-color: rgb(236, 174, 39);
+}
+
+.inbox-icon {
+  padding: 3px 15px;
+  color: white;
+  font-size: 13px;
+  border-radius: 3px;
+  background-color: rgb(236, 174, 39);
+  position: absolute;
+  left: 20%;
+}
+.draft-icon-1 {
+  background-color: rgb(245, 42, 110);
+  padding: 3px 12px;
+  color: white;
+  font-size: 13px;
+  border-radius: 3px;
+  position: absolute;
+  left: 20.4%;
+}
+.span-work{
+    color: teal;
+}
+.span-documents{
+  color: rgb(245, 42, 110);
+}
+.span-social{
+  color: rgb(167, 166, 166);
+}
+.span-advertising{
+  color: turquoise;
+}
+.span-clients{
+  color: rgb(236, 174, 39);
+}
+.label{
+    display: inline-block;
+    padding: 5px ;
+    margin: 5px;
+    font-size: 13px;
+}
+.main-top{
+    display: flex;
+    justify-content: space-between;
+}
+.email-btn{
+    border-radius: 3px;
+    color: white;
+    border: none;
+  background-color: rgba(44, 170, 97, 0.8); 
+  padding: 3px 6px;
+
+}
+.arrow-left{
+    left: 79%;
+}
+.arrows{
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 20px;
+    margin-top: 70px;
+}
+
+.search-btn{
+    position: absolute;
+    top:21%;
+    right: 5%;
+}
+.form-check-input{
+  width: 30px;
+  height: 30px;
+  margin: 0px 15px;
+}
+.slider{
+  background-color:rgba(33, 39, 49);
+  color: white;
+}
+.unorder-list{
+   background-color:rgb(34, 38, 44);
+}

@@ -1,0 +1,269 @@
+
+               <img src="./images/avatar-unsplash.jpg" class="avatar" alt="photo">
+               <p class="m-0"><strong>David Williams</strong> </p>
+               <span class="drowdown  dropdown-toggle  " id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">Art Director</span>
+                <ul class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                </ul>
+            
+            <!-- menu -->
+
+                <div class="d-block align-items-center justify-content-space-between-evenly">
+                    <h6 class="  dropdown-toggle  " id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="true"><i class="fab fa-microsoft"></i>Dashboard</h6>
+                <ul class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                </ul>
+                <h6 class="drowdown  dropdown-toggle  " id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false"><i class="far fa-gem"></i>Layouts</h6>
+                <ul class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                </ul>
+                <h6 class="drowdown  dropdown-toggle  " id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false"><i class="far fa-chart-bar"></i>Graphs</h6>
+                <ul class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                </ul>
+                <h6 class="drowdown  dropdown-toggle  " id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false"> <i class="far fa-envelope"></i>MailBoxr</h6>
+                <ul class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                </ul>
+                <h6 class="drowdown  dropdown-toggle  " id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-chart-pie"></i>Metrics</h6>
+                <ul class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                </ul>
+                <h6 class="drowdown  dropdown-toggle  " id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false"> <i class="fas fa-flask"></i>Widgets</h6>
+                <ul class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                </ul>
+                <h6 class="drowdown  dropdown-toggle  " id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">  <i class="fas fa-pen-square"></i>Forms</h6>
+                <ul class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                </ul>
+                <h6 class="drowdown  dropdown-toggle  " id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-desktop"></i>App Views</h6>
+                <ul class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                  <li><a class="dropdown-item" href="#">drowdown</a></li>
+                </ul>
+
+//////////
+
+<div>
+                <h2 class="mb-5">Inbox(16)</h2>
+                <span class="p-2 border"><i class="fas fa-sync me-1"></i>Refresh</span>
+                <span class="p-2 m-2 border"> <i class="far fa-eye"></i> </span>
+                <span class="p-2 m-2 border"><i class="fas fa-exclamation"></i> </span>
+                <span class="p-2 m-2 border"> <i class="far fa-trash-alt"></i></span>
+               </div>
+                   <div class="email-search">
+                    <input type="text" name="search" class="search-email" placeholder="Search email">
+                    <span class="text-center search-span">Search</span>
+                   </div>
+
+
+                   /////////////
+
+
+                   Nav
+
+
+                   /////////// 
+
+                   <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid justify-content-between ms-3">
+          <div class="search d-flex justify-content-between">
+            <i class="fas fa-bars fa-1x m-2 text-center rounded"></i>
+            <input
+              type="text-center "
+              class="search-input bg-light ms-2 ps-2"
+              placeholder="search for something... "
+            />
+          </div>
+          <div
+            class="
+              icons
+              d-flex
+              justify-content-around
+              me-3
+              align-items-center
+              text-center
+            "
+          >
+            <p class="px-3 nav-para text-secondary">
+              Welcome to INSPINIA + Admin Theme.
+            </p>
+            <i class="fas fa-envelope mx-2 text-secondary">
+              <span class="span-icon">16</span>
+            </i>
+            <i class="fas fa-bell mx-2 text-secondary">
+              <span class="span-icon-1">8</span>
+            </i>
+            <i class="fas fa-sign-out-alt mx-2 text-secondary"></i>
+            <button
+              type="button "
+              class="login_btn bg-light ms-3 text-secondary"
+            >
+              Logout
+            </button>
+          </div>
+        </div>
+      </nav> -->
+
+
+
+
+      /////////////////
+    sidebar
+
+
+      <!-- <div
+              class="
+                col-lg-3
+                
+                h-50
+                justify-content-between
+                align-items-start
+                text-center
+              "
+            >
+              <button
+                type="button"
+                class="px-5 py-2 my-5 text-light w-100"
+                id="compose-btn"
+                type="button"
+              >
+                Compose Mail
+              </button>
+              <div class="text-start">
+                <p class="lead">FLODERS</p>
+                <table class="table">
+                  <tr>
+                  <td> <i class="fas fa-inbox me-3"></i>Inbox  <span class="floderspan">16</span></td>
+                  </tr>
+                  <tr>
+                    <td> <i class="far fa-envelope me-3"></i>Send Mail</td>
+                  </tr>
+                  <tr>
+                    <td> <i class="fas fa-star me-3"></i>Important</td>
+                  </tr>
+                  <tr>
+                    <td><i class="fab fa-firstdraft me-3"></i>Draft
+                      <span class="floderspan-1">2</span></td>
+                  </tr>
+                  <tr>
+                    <td> <i class="far fa-trash-alt me-3"></i>Trash</td>
+                  </tr>
+                </table>
+              </div>
+              <div class="text-start">
+                <p class="lead">CATEGORIES</p>
+                     <table class="table">
+                      <tr>
+                        <td>
+                         <span class="categories-span me-3"></span> Work
+                      </td>
+                     </tr>
+                       <tr>
+                         <td>
+                          <span class="categories-span-1 me-3"></span> Documnets
+                       </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <span class="categories-span-2 me-3"></span> Social
+                      </td>
+                     </tr>
+                     <tr>
+                      <td>
+                        <span class="categories-span-3 me-3"></span> Advertising
+                    </td>
+                   </tr>
+                   <tr>
+                    <td>
+                      <span class="categories-span-4 me-3"></span> Clients
+                  </td>
+                 </tr>
+                     </table>
+              </div>
+              <div class="text-start">
+                <p class="lead">LABELS</p>
+                
+                <table class="table">
+                      <tr>
+                    <td><span class="border bg-light label">
+                      <i class="fas fa-tag me-1"></i>family</span
+                    ><span class="border bg-light label">
+                      <i class="fas fa-tag me-1"></i>Work</span
+                    ><span class="border bg-light label">
+                      <i class="fas fa-tag me-1"></i>Home</span
+                    ><span class="border bg-light label">
+                      <i class="fas fa-tag me-1"></i>Children</span
+                    ><span class="border bg-light label">
+                      <i class="fas fa-tag me-1"></i>Holidays</span
+                    ><span class="border bg-light label">
+                      <i class="fas fa-tag me-1"></i>Music</span
+                    ><span class="border bg-light label">
+                      <i class="fas fa-tag me-1"></i>Photography</span
+                    >
+                    <span class="border bg-light label">
+                      <i class="fas fa-tag me-1"></i>Flim</span
+                    >
+                    </td>
+                  </tr>
+                </table>
+              </div>
+            </div> -->
+
+                   
+
+    
+
+    ////////////////////////
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                <!-- menu -->
+                  
+                <!-- menu -->
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                      <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Dropdown
+                      </a>
+                      <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="#">Action</a></li>
+                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                      </ul>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                    </li>
+                  </ul>
+                  <form class="d-flex">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                  </form>
+                </div>

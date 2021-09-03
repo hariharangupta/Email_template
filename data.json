@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Anna Smith",
+    "notification":"",
+    "message": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    "icon":"<i class='fas fa-paperclip'></i> ",
+    "time":"6.10AM"
+  },
+   {
+    "name": "Jack Nowak",
+    "notification":"",
+    "message": "Aldus PageMaker including Version of Lorem Ipsum.",
+    "icon":"",
+    "time":"8.22PM"
+  },
+  {
+    "name": "Facebook",
+     "notification":"clients",
+    "message": "Many desktop publishing packages and web page editors.",
+    "icon":"",
+    "time":"Jan 16"
+  },
+  {
+    "name": "Mailchip",
+    "notification":"",
+    "message": "There are many variations of passages of lorem lpsum.",
+    "icon":"",
+    "time":"Mar 22"
+  },
+  {
+    "name": "Alex T.",
+    "notification":"Documents",
+    "message": "lorem ipsum dolor noretek limit set.",
+    "icon":"<i class='fas fa-paperclip'></i> ",
+    "time":"December 22"
+  },
+  {
+    "name": "Sandra Derick",
+    "notification":"",
+    "message": " Contrary to popular belief.",
+    "icon":"",
+    "time":"May 28"
+  },
+  {
+    "name": "Patrick Pertners",
+    "notification":"Adv",
+    "message": " If your are going to use a passage of lorem.",
+    "icon":"",
+    "time":"6.10AM"
+  },
+  {
+    "name": "Michael Fox",
+    "notification":"",
+    "message": "  Humour, or non-characteristic words ect. ",
+    "icon":"",
+    "time":"Dec 9"
+  },
+  {
+    "name": "Danien Ritz",
+    "notification":"",
+    "message": "   Oor Lorem lpsum is that it has a more-or-less normal. ",
+    "icon":"",
+    "time":"Jun 11"
+  },
+  {
+    "name": "Alex T.",
+    "notification":"",
+    "message": "   lorem ipsum dolor noretek limit set.",
+    "icon":"",
+    "time":"December 22"
+  },
+  {
+    "name": "Michael Fox",
+    "notification":"",
+    "message": " Humour, or non-characteristic words ect.",
+    "icon":"",
+    "time":"Dec 9"
+  },
+  {
+    "name": "Facebook",
+    "notification":"",
+    "message": " Many desktop publishing packages and web page editors.",
+    "icon":"",
+    "time":"Jan 16"
+  },
+  {
+    "name": " Derick",
+    "notification":"",
+    "message": "  Contrary to popular lorem ipsum.",
+    "icon":"",
+    "time":"Aug 28"
+  },
+  {
+    "name": " Instagram",
+    "notification":"",
+    "message": "   popular social media app.",
+    "icon":"",
+    "time":" Dec 2020 "
+  }
+]
